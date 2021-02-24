@@ -1,3 +1,4 @@
+#1094
 X = int(input())
 n = 64
 ans = 0
